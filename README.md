@@ -2,16 +2,6 @@
 
 I am an **Experienced DevOps Engineer** with over 6 years of expertise in cloud infrastructure management, automation, and CI/CD pipeline implementation. I specialize in AWS, Kubernetes, and Infrastructure as Code.
 
----
-
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suneeshms96&show_icons=true&theme=radical&hide_border=false" alt="Suneesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suneeshms96&layout=compact&theme=radical&hide_border=false" alt="Suneesh's Top Languages" />
-</p>
-
----
-
 ### 🛠️ Technical Skills
 
 * **Cloud Platforms:** AWS (EC2, EKS, RDS, S3, Lambda), GCP, IBM Cloud, Azure.
